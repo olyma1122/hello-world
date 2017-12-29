@@ -1,8 +1,8 @@
 # nccu_drone
 
-## World Model
+## Space Model
 
-World Model contains two fields：
+Space Model contains two fields：
 
 * DroneContext
 * MapContext
